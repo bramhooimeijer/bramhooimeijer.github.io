@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Bram Hooimeijer"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  #logo = "img/logo-with-text.png"
+  #secondaryLogo = "img/logo-with-text-inverted.png"
+  description = "Bram Hooimeijer's Personal Website"
+  copyright = "© { year } Bram Hooimeijer"
+
+[params.author]
+  name = "Bram Hooimeijer"
+  email = "bram@fortyforwards.com"
+  image = "img/profiel.png"
+  imageQuality = 96
+  headline = "Artificial Intelligence, Computing, Embedded Systems"
+  bio = "Independent Consultant, working on AI and Computing projects."
+  links = [
+    { email = "mailto:bram@fortyforwards.com" },
+    { linkedin = "https://linkedin.com/in/bramhooimeijer" },
+    { x-twitter = "https://twitter.com/bramhooimeijer" },
+    { github = "https://github.com/bramhooimeijer" },
+  ]

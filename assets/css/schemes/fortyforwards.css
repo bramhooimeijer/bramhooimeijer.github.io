@@ -1,0 +1,39 @@
+/* Ocean scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Neutral */
+  --color-neutral-50: 250, 250, 250;
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 240, 242, 245;
+  --color-neutral-300: 193, 202, 215;
+  --color-neutral-400: 147, 163, 184;
+  --color-neutral-500: 101, 123, 154;
+  --color-neutral-600: 81, 98, 123;
+  --color-neutral-700: 61, 74, 92;
+  --color-neutral-800: 40, 49, 62;
+  --color-neutral-900: 20, 25, 31;
+
+  /* Primary */
+  --color-primary-50: 180, 235, 255;
+  --color-primary-100: 129, 222, 255;
+  --color-primary-200: 78, 208, 255;
+  --color-primary-300: 27, 195, 255;
+  --color-primary-400: 2, 188, 255;
+  --color-primary-500: 0, 170, 231;
+  --color-primary-600: 0, 151, 206;
+  --color-primary-700: 0, 132, 180;
+  --color-primary-800: 0, 114, 155;
+  --color-primary-900: 0, 95, 129;
+
+  /* Secondary */
+  --color-secondary-50: 255, 191, 148;
+  --color-secondary-100: 255, 161, 97;
+  --color-secondary-200: 255, 130, 46;
+  --color-secondary-300: 250, 101, 0;
+  --color-secondary-400: 225, 90, 0;
+  --color-secondary-500: 199, 80, 0;
+  --color-secondary-600: 174, 70, 0;
+  --color-secondary-700: 148, 59, 0;
+  --color-secondary-800: 123, 49, 0;
+  --color-secondary-900: 97, 39, 0;
+}
