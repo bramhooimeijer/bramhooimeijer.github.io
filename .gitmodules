@@ -5,3 +5,6 @@
 [submodule "scripts/fugu"]
 	path = scripts/fugu
 	url = https://github.com/nunocoracao/fugu.git
+[submodule "content/posts"]
+	path = content/posts
+	url = git@github.com:bramhooimeijer/writing.git
